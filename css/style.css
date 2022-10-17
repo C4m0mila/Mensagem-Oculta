@@ -28,10 +28,11 @@ header{
 }
 
 header img{
+    border-bottom: 1px double #C3B5B8;
     display: flex;
     flex-direction: row;
     height: 90px;
-    width: 84rem;
+    width: 100%;
 }
 
 .content{
@@ -198,7 +199,4 @@ footer  img {
 }
 
 
-@media only screen and (max-device-width: 700px) {
-    .menu { width:400px; } 
-    .menu { width:100%; } 
-}
+
