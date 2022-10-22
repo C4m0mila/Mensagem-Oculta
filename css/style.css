@@ -39,8 +39,7 @@ header img {
 
 .intro {
   text-align: center;
-  margin-left: 19rem;
-  margin-right: 19rem;
+  width: 50%;
   font-family: fonte;
   font-size: 25px;
   color: antiquewhite;
